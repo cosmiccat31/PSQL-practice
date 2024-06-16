@@ -1,22 +1,18 @@
 # MARIO BROS DATABASE
 
-## DESCRIPTION
-Este proyecto documenta el proceso de diseño y creación de una base de datos relacionada con el universo de Mario Bros. Incluye la estructura de las tablas, relaciones entre entidades y otros detalles relevantes.
+## Description
+In this project I show my firts experience working with PSQL, this is a FreeCodeCamp project that explains the basics of PSQL and relational databases. 
 
-## Requisitos
-- PostgreSQL (versión 16 o superior)
-- Herramientas de administración de bases de datos (SQL Shell, PowerShell.)
+## Requirements
+- PostgreSQL (version 16 or higher)
+- Database administration tools (SQL Shell, PowerShell.)
 
-## Diagrama de Entidad-Relación (ER)
+## ER Diagram
 
-![Diagrama ER](/ER_Diagram_Mario.png)
-
-### Relaciones
-
-#### Relación One-to-Many (characters - items)
-- `characters.character_id` -> `items.character_id`
-
-Describe aquí las relaciones entre las tablas y cómo están estructuradas.
+<div align="center">
+  <img src="./ER_Diagram_Mario.png" alt="Diagrama ER" width="600">
+  <p>Diagrama de Entidad-Relación del proyecto Mario Bros</p>
+</div>
 
 ## Scripts SQL
-
+![SQL File](/mario_db/mario.sql)
