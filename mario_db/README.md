@@ -9,7 +9,7 @@ Este proyecto documenta el proceso de diseño y creación de una base de datos r
 
 ## Diagrama de Entidad-Relación (ER)
 
-![Diagrama ER](ER Diagram Mario.png)
+![Diagrama ER](/ER_Diagram_Mario.png)
 
 ### Relaciones
 
